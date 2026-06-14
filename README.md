@@ -1,4 +1,4 @@
-# Beauty-Product-Rating-Predictor
+# Beauty Product Rating Predictor
 
 ## Project Overview
 This project develops an interactive analytics and prediction tool using Sephora beauty product data. The application performs exploratory data analysis and visualizations to examine pricing trends and product performance across categories. The project also includes a machine learning model that predicts whether a product is likely to be highly rated based on features such as price, brand and category. A Tkinter GUI allows users to explore the dataset and generate rating predictions interactively.
